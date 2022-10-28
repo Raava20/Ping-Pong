@@ -71,6 +71,13 @@ Where I get CS50 course?
 
 https://courses.edx.org/
 
+
+# Cs50 Final
+This was my final project for conclude the CS50 Introduction to Computer Sciense course.
+
+
+
+
   
   
 
